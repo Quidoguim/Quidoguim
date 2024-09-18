@@ -6,7 +6,7 @@
     - JavaScript `.js`
     - HTML `.html`
     - CSS `.css`
-    - SVG `.svg`
+    - C# `.cs`
     - Java `.java`
 
-Sejam bem-vindos ao meu GitHub! Aqui você encontrará projetos, códigos e experimentos relacionados ao mundo do desenvolvimento e da engenharia de software. Sinta-se à vontade para explorar, colaborar e compartilhar suas ideias. Juntos, podemos criar algo incrível!
+Sejam bem-vindos ao meu GitHub! Aqui você encontrará projetos, códigos e experimentos relacionados ao mundo do desenvolvimento e da E.S. Sinta-se à vontade para explorar, colaborar e compartilhar suas ideias. Juntos, podemos criar algo incrível!
