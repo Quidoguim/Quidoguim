@@ -1,12 +1,13 @@
-### Olá, pessoal! 👋
+### Olá, pessoal! Tudo certo? 👋
 
-#### Sou um Desenvolvedor durante o dia ☼ e um estudante de Engenharia de Software à noite ☾
+#### Desenvolvedor durante o dia ☀ e estudante de Engenharia de Software à noite 🌙
 
-- ⚙️ Tecnologias que utilizo diariamente:
-    - C# `.cs`
-    - Python `.py`
-    - JavaScript `.js`
-    - CSS `.css`
-    - Java `.java`
+Seja bem-vindo(a) ao meu GitHub!  
+Aqui você vai encontrar projetos, códigos e experimentos relacionados ao desenvolvimento de software e à minha jornada acadêmica.
 
-Sejam bem-vindos ao meu GitHub! Aqui você encontrará projetos, códigos e experimentos relacionados ao mundo do desenvolvimento e da E.S.
+- ⚙️ Tecnologias que utilizo no dia a dia:
+  - **C#** (`.cs`)
+  - **Python** (`.py`)
+  - **Java** (`.java`)
+
+Fique à vontade para explorar os repositórios, acompanhar minha evolução ou contribuir com sugestões!
